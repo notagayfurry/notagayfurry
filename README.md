@@ -13,8 +13,8 @@ Welcome to my GitHub cave! Here, I mess around with tech stuff, like writing cod
 - **Toolz:** long a** message.
 - **Cloud stuff:** DigitalOcean, Linode, CloudFlare, and Vercel.
 
-## 🦊 Furry 
-Yep, I’m a furry. Don’t ask why, I just am. 🦊🎨
+## 😾 Furry 
+Yep, I’m a furry. Don’t ask why, I just am. 😾🎨
 
 ## 📈 My low GitHub stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matteobolle&show_icons=true&theme=dark)
