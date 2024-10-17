@@ -7,7 +7,7 @@ def calculate_age(birthdate):
     return age
 
 # Because I need to know your birthdate, you should put it here. Duh.
-birthdate = datetime(2009, 07, 20)  # 
+birthdate = datetime(2009, 07, 20)
 age = calculate_age(birthdate)  # I did the math for you matthew. Happy?
 
 # Because I need to read the README... I really don't have to but whatever...
@@ -17,6 +17,6 @@ with open("README.md", "r") as file:
 # Ugh just read the code..
 with open("README.md", "w") as file:
     for line in readme:
-        if "<AGE_PLACEHOLDER>" in line:  
-            line = line.replace("<AGE_PLACEHOLDER>", str(age))  
-        file.write(line)  
+        if "<AGE_PLACEHOLDER>" in line:
+            line = line.replace("<AGE_PLACEHOLDER>", f"{age} (still <AGE_PLACEHOLDER>)")
+        file.write(line)  # Because if I don't save it.. well...............
