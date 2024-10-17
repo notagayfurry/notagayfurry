@@ -18,5 +18,5 @@ with open("README.md", "r") as file:
 with open("README.md", "w") as file:
     for line in readme:
         if "<AGE_PLACEHOLDER>" in line:
-            line = line.replace("<AGE_PLACEHOLDER>", f"{age} (still <AGE_PLACEHOLDER>)")
-        file.write(line)  # Because if I don't save it.. well...............
+            line = line.replace("<AGE_PLACEHOLDER>", str(age))
+        file.write(line)  # Because if I don't save it, none of this matters.
