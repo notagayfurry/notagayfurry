@@ -4,15 +4,15 @@ I am 15 years old.
 Welcome to my GitHub cave! Here, I mess around with tech stuff, like writing code that never works on the first try. Here’s some pointless info about me (you’re probably not gonna read it all, but whatever):
 
 ## 🚀 Stuff I do... maybe
-- **I write code** (sometimes it even works): things like Python, JS, and other languages I barely understand myself.
-- **Cloud and other nerdy stuff:** yeah, I love making VMs on DigitalOcean and Linode. Don’t ask me about my bill though.
+- **I write code** (sometimes it even works): things like Python,and other languages I barely understand myself.
+- **Cloud and other nerdy stuff:** yeah, I love making VMs on DigitalOcean and Linode. I host useless stuff on there.
 - **Open Source?!:** Mostly just watch other people do the real work.
 
-## 🖥️ My super tech powers
-- **Languages:** Python (🐍 no, not the snake. terrible joke, dont cancel me pls), JavaScript (I forget the brackets half the time), HTML (for making sites no one visits), CSS (for trying to make them pretty, but failing).
+## 🖥️ Other tech thingz
+- **Languages:** Python (🐍 no, not the snake. terrible joke, dont cancel me pls), HTML (for making sites no one visits), CSS (for trying to make them pretty, but failing).
 - **Complicated things:** long a** message.
 - **Toolz:** long a** message.
-- **Cloud stuff:** DigitalOcean, Linode, CloudFlare, and Vercel.
+- **Cloud stuff:** DigitalOcean, Linode, Cloudflare, and Vercel.
 
 ## 😾 Furry 
 Yep, I’m a furry. Don’t ask why, I just am. 😾🎨
