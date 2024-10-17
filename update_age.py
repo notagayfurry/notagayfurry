@@ -7,7 +7,7 @@ def calculate_age(birthdate):
     return age
 
 # Because I need to know your birthdate, you should put it here. Duh.
-birthdate = datetime(2009, 07, 20)
+birthdate = datetime(2009, 7, 20) # No leading zero's.. happy python?
 age = calculate_age(birthdate)  # I did the math for you matthew. Happy?
 
 # Because I need to read the README... I really don't have to but whatever...
