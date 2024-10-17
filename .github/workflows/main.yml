@@ -1,0 +1,29 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # This runs every day at midnight.. if it works anyway..
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Run update_age script
+        run: |
+          python update_age.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update age in README"
+          git push
