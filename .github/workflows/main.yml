@@ -1,8 +1,11 @@
-name: Update Age
+name: Update Age in README
 
 on:
+  push:
+    branches:
+      - main  # Or whatever branch you are using
   schedule:
-    - cron: "0 0 * * *"  # This runs every day at midnight.. if it works anyway..
+    - cron: "0 0 * * *"  # Runs daily at midnight
 
 jobs:
   update-age:
