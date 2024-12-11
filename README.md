@@ -12,7 +12,7 @@ Welcome to my GitHub cave! Here, I mess around with tech stuff, like writing cod
 - **Languages:** Python (🐍 no, not the snake. terrible joke, dont cancel me pls), HTML (for making sites no one visits), CSS (for trying to make them pretty, but failing).
 - **Complicated things:** long a** message.
 - **Toolz:** long a** message.
-- **Cloud stuff:** DigitalOcean, Linode, Cloudflare, and Vercel.
+- **Cloud stuff:** AWS, Linode, Cloudflare, and Vercel.
 
 ## 😾 Furry 
 Yep, I’m a furry. Don’t ask why, I just am. 😾🎨
