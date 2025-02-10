@@ -18,7 +18,7 @@ Welcome to my GitHub cave! Here, I mess around with tech stuff, like writing cod
 Yep, I’m a furry. Don’t ask why, I just am. 😾🎨
 
 ## 📈 My low GitHub stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matteobolle&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notagayfurry&show_icons=true&theme=dark)
 
 ## 📱 Where to find me
 - **TikTok:** [@not_bubblesxenial](https://www.tiktok.com/@not_bubblesxenial) (for random videos, obviously)
