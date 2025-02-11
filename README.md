@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- animated welcome banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&size=35&duration=4000&color=1DB954&center=true&vCenter=true&width=500&lines=Hewwo+there!+%F0%9F%90%BE;I'm+Matthew!+UwU;A+Smol+Dev+in+Training+%F0%9F%90%BA" alt="typing svg" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&size=35&duration=4000&color=1DB954&center=true&vCenter=true&width=500&lines=Hewwo+there!+%F0%9F%90%BE;I'm+Matthew!+UwU;A+Smol+Dev+in+Training+%F0%9F%90%B1" alt="typing svg" />
 
 <!-- profile Banner - TBA, still need a good banner -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png)" alt="" width="100%">
@@ -17,7 +17,7 @@
 
 - 🎓 Proud holder of a insignificant **GitHub Foundations Certificate**
 - 🌐 Bilingual: Italian (native) & English
-- 🐺 Just a fluffy dev learning new things every day!
+- 🐱 Just a fluffy boi learning new things every day!
 - 🌱 Currently working on becoming a better programmer (i think) >w<
 
 <h2 align="center">🛠️ My Tech Stack 🛠️</h2>
@@ -31,10 +31,10 @@
 
 ### Currently Learning:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!-- sometime in the future :3 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) -->
 <!-- sometime in the future :3 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) -->
 <!-- sometime in the future :3 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
