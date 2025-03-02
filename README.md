@@ -1,13 +1,13 @@
 <div align="center">
   
 <!-- animated welcome banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&size=35&duration=4000&color=1DB954&center=true&vCenter=true&width=500&lines=Hewwo+there!+%F0%9F%90%BE;I'm+Matthew!+UwU;A+Smol+Dev+in+Training+%F0%9F%90%B1" alt="typing svg" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&size=35&duration=4000&color=1DB954&center=true&vCenter=true&width=500&lines=Hewwo+there!+%F0%9F%90%BE;I'm+Matthew!+UwU;A+Smol+Dev+%F0%9F%90%B1" alt="dumb typing svg" />
 
 <!-- profile Banner - TBA, still need a good banner -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png)" alt="" width="100%">
 
 <!-- gitbub stats -->
-[![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=notagayfurry&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Matthew's github streak](https://github-readme-streak-stats.herokuapp.com/?user=notagayfurry&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
@@ -15,9 +15,9 @@
 
 *boops screen* Hewwo! I'm a 15-year-old student from Italy! 🇮🇹
 
-- 🎓 Proud holder of a insignificant **GitHub Foundations Certificate**
+- 🎓 Holder of a insignificant **GitHub Foundations Certificate**
 - 🌐 Bilingual: Italian (native) & English
-- 🐱 Just a fluffy boi learning new things every day!
+- 🐱 Just a fluffy boi learning new things 
 - 🌱 Currently working on becoming a better programmer (i think) >w<
 
 <h2 align="center">🛠️ My Tech Stack 🛠️</h2>
@@ -31,10 +31,10 @@
 
 ### Currently Learning:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!-- sometime in the future :3 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) -->
 <!-- sometime in the future :3 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) -->
-<!-- sometime in the future :3 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
 </div>
 
@@ -45,6 +45,7 @@
 #### 🌐 Web Services
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Porkbun](https://img.shields.io/badge/Porkbun-FF4081?style=for-the-badge&logo=porkbun&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 #### 💻 Development Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -55,6 +56,7 @@
 #### 🖥️ Infrastructure
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![OVH Cloud](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
 
 </div>
 
@@ -75,7 +77,7 @@
 ### 💌 Contact
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1185871608078946354)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/oilyfurry)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:matthew@bubblesxenial.it)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hello@bubblesxenial.it)
 
 </div>
 
